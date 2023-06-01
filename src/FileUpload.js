@@ -66,7 +66,7 @@
 
 
 
-import { useRef, useState } from "react"
+import { useRef, useState } from "react";
 import axios from 'axios';
 
 export default function FileUpload() {
